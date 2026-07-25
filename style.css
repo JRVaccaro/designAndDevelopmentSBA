@@ -44,7 +44,10 @@ border-radius: 10px;
 display: flex;
 align-items: center;
 gap: 8px;
-width: fit-content;
+
+
+right: 30px;
+top: -40px;
 }
 .storage-badge strong{
     font-size: 2rem;
