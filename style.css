@@ -1,13 +1,19 @@
 body{
     font-family: 'Raleway', sans-serif;
+    background-color: hsl(229, 57%, 11%);
+    color: white;
 }
 .left-card{
-    border: 2px solid gray;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 12px;
+    border-top-right-radius:8 0px;
     min-height: 200px;
 }
 .right-card{
-    border: 2px solid gray;
+    background-color: hsl(228, 56%, 26%);
+    border-radius: 12px;
     min-height: 160px;
+
 }
 .icon-btn{
     width: 50px;
