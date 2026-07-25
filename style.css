@@ -1,0 +1,11 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.left-card{
+    border: 2px solid gray;
+    min-height: 200px;
+}
+.right-card{
+    border: 2px solid gray;
+    min-height: 160px;
+}
