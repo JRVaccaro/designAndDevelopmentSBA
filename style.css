@@ -9,3 +9,9 @@ body{
     border: 2px solid gray;
     min-height: 160px;
 }
+.icon-btn{
+    width: 50px;
+    height: 50px;
+    border: 1px solid gray;
+    background: white;
+}
