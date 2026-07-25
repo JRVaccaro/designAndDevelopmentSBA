@@ -36,3 +36,21 @@ body{
     background: linear-gradient( to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%));
     border-radius: 20px;
 }
+.storage-badge{
+  background-color: white;
+  color: hsl(229, 57%, 11%);
+padding:15px 25px;
+border-radius: 10px;
+display: flex;
+align-items: center;
+gap: 8px;
+width: fit-content;
+}
+.storage-badge strong{
+    font-size: 2rem;
+}
+.storage-badge span{
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: hsl(229, 7%, 55%);
+}
