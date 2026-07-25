@@ -6,7 +6,7 @@ body{
 .left-card{
     background-color: hsl(228, 56%, 26%);
     border-radius: 12px;
-    border-top-right-radius:8 0px;
+    border-top-right-radius: 80px;
     min-height: 200px;
 }
 .right-card{
